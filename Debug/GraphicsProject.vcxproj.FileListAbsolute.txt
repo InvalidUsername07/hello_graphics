@@ -1,0 +1,2 @@
+C:\Users\sailesh\source\repos\GraphicsProject\Debug\GraphicsProject.exe
+C:\Users\sailesh\source\repos\GraphicsProject\Debug\GraphicsProject.pdb
